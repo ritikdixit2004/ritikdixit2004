@@ -1,0 +1,15 @@
+<svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ritik Dixit — animated 3D engineering lab</title>
+  <desc id="desc">A glowing animated orbit around a three-dimensional IoT core.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="210" gradientUnits="userSpaceOnUse"><stop stop-color="#07162F"/><stop offset=".55" stop-color="#0B2547"/><stop offset="1" stop-color="#04151D"/></linearGradient>
+    <linearGradient id="core" x1="591" y1="54" x2="720" y2="151" gradientUnits="userSpaceOnUse"><stop stop-color="#4BFFE1"/><stop offset="1" stop-color="#1377BD"/></linearGradient>
+    <filter id="g" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="210" rx="24" fill="url(#bg)"/><circle cx="1098" cy="126" r="120" fill="#0AE0C1" fill-opacity=".08"/><circle cx="95" cy="42" r="92" fill="#286CFF" fill-opacity=".12"/>
+  <g opacity=".55" stroke="#50E8E2"><path d="M450 160C520 62 766 62 840 160"/><path d="M469 176C536 95 748 95 820 176"/></g>
+  <g transform="translate(650 104)"><animateTransform attributeName="transform" type="rotate" values="0 650 104;360 650 104" dur="9s" repeatCount="indefinite"/><ellipse cx="0" cy="0" rx="166" ry="55" stroke="#44F7DF" stroke-opacity=".8" stroke-width="2"/><circle cx="165" cy="0" r="7" fill="#E8FC62" filter="url(#g)"/><circle cx="-96" cy="-45" r="5" fill="#79FFF0" filter="url(#g)"/></g>
+  <g filter="url(#g)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.7s" repeatCount="indefinite"/><path d="M592 93L650 62L711 93L650 125L592 93Z" fill="url(#core)"/><path d="M592 93L650 125V163L592 130V93Z" fill="#0B6E90"/><path d="M650 125L711 93V130L650 163V125Z" fill="#164C91"/><path d="M620 92L650 76L680 92L650 108L620 92Z" fill="#D0FFF6"/><circle cx="650" cy="92" r="6" fill="#27F4D6"><animate attributeName="r" values="4;8;4" dur="1.4s" repeatCount="indefinite"/></circle></g>
+  <g font-family="Arial, Helvetica, sans-serif"><text x="74" y="84" fill="#74FFF0" font-size="15" font-weight="700" letter-spacing="5">RITIK'S ENGINEERING LAB</text><text x="74" y="126" fill="white" font-size="31" font-weight="800">IDEATE · BUILD · DEPLOY</text><text x="75" y="156" fill="#B7D2EE" font-size="17">Robotics, embedded systems and connected intelligence.</text></g>
+  <g fill="#89FFF1"><circle cx="1020" cy="60" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle><circle cx="1071" cy="92" r="4"><animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="1122" cy="54" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.3s" repeatCount="indefinite"/></circle></g>
+</svg>

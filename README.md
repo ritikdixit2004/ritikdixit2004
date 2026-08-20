@@ -1,12 +1,15 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ritikdixit2004/ritikdixit2004/main/assets/ritik-3d-hero.svg" alt="Animated 3D robotics and embedded systems hero artwork" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ritikdixit2004/ritikdixit2004/main/assets/ritik-3d-orbit-intro.svg" alt="Animated 3D engineering lab" width="100%" />
+</p>
 # Hi, I'm Ritik Dixit 👋
 
 ### Electronics & Communication Engineering Student | IoT, Robotics, and Software Builder
 
 I build practical projects where hardware and software meet - from long-range rescue rovers and robotic cars to IoT home automation and web tools.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ritikdixit2004/ritikdixit2004/main/assets/ritik-3d-hero.svg" alt="3D embedded systems and robotics hero artwork" width="100%" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ritik-dixit-3722aa3b8/">
